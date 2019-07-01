@@ -28,7 +28,7 @@ export default {
     computed: {
         data: function() {
             var arr = []
-            for (var i = 0; i < 20; i++) {
+            for (var i = 0; i < 50; i++) {
                 arr.push(i)
             }
             return arr
